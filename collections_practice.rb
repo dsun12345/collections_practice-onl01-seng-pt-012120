@@ -43,5 +43,5 @@ def sum_array(array)
 end
 
 def add_s(array)
-  array.collect {|x| x += "s" if array[0]}
+  array.collect {|x| x += "s" if array[0,2,3]}
 end
