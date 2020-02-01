@@ -33,3 +33,8 @@ end
 arrays
 end
 
+def find_a(array)
+  arrays = []
+  
+  
+end
