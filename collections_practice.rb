@@ -30,7 +30,7 @@ def kesha_maker(array)
   arrays=[]
   array.each do |x| arrays << x[3] = "$"
 end 
-arrays
+arraysd
 end
 
 def find_a(array)
