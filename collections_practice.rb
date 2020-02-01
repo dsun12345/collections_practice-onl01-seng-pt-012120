@@ -35,6 +35,6 @@ end
 
 def find_a(array)
   arrays = []
-  
-  
+  array.each {|x| arrays << x.start_with?("a")}
+  arrays
 end
