@@ -38,3 +38,7 @@ def find_a(array)
   array.each {|x| arrays << x if x.start_with?("a")}
   arrays
 end
+
+def sum_array(array)
+  
+end
